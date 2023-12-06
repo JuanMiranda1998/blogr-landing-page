@@ -24,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop(1440px)](./capture/capture-desktop.png)
 ![Mobile(375px)](./capture/capture-mobile-1.png)
 ![Mobile(375px)](./capture/capture-mobile-2.png)
+![Desktop(1440px)](./capture/capture-desktop.png)
 
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/JuanMiranda1998/blogr-landing-page)
 - Live Site URL: [Netlify](https://your-live-site-url.com)
 
 ## My process
